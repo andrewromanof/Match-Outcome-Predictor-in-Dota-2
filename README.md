@@ -4,7 +4,17 @@
 
 All_Heroes_ID.csv - Contains the unique id linked to the hero
 
-Fetching_data.ipynb - Notebook that was used
+Fetching dota 2 data.ipynb - Notebook that was used to collect and generate all data
+
+Final_project.ipynb - Notebook that was used to experiment on the data and collect and visualize results
+
+recent_matches.json - A list of all matches that was collected from Opendota API
+
+filtered_matches.json - A list of all matches from recent_matches.json that met a criteria
+
+# Video presentation
+
+https://www.youtube.com/watch?v=5LEm_U2f7Zg
 
 ## Overview
 
